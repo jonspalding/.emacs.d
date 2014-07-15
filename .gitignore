@@ -1,1 +1,5 @@
 *.dat
+history
+places
+*.eld
+auto-save-list/*
